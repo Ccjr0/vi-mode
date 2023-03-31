@@ -1,2 +1,2 @@
 ## the optimal vi-mode for zsh
-**(forked from luke's)
+**(forked from luke's)**
