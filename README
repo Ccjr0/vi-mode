@@ -1,2 +1,4 @@
 The optimal vi-mode for zsh.
-(Forked from Luke's zshrc).
+Just source it from your zshrc and you're off.
+
+(Diffed from Luke's zshrc).
